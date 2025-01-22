@@ -1,34 +1,18 @@
 ---
-featured:
-  - name: "StableLift: Optimized Germline and Somatic Variant Detection Across Genome Builds"
-    url: https://www.biorxiv.org/content/10.1101/2024.10.31.621401v1
-    authors:
-      - Nicholas K. Wang
-      - Nicholas Wiltsie
-      - Helena K. Winata
-      - Sorel Fitz-Gibbon
-      - Alfredo E. Gonzalez
-      - Nicole Zeltser
-      - Raag Agrawal
-      - Jieun Oh
-      - Jaron Arbet
-      - Yash Patel
-      - Takafumi N. Yamaguchi
-      - Paul C. Boutros
 
-index:
-  - name: "StableLift: Optimized Germline and Somatic Variant Detection Across Genome Builds"
-    url: https://www.biorxiv.org/content/10.1101/2024.10.31.621401v1
-    authors:
-      - Nicholas K. Wang
-      - Nicholas Wiltsie
-      - Helena K. Winata
-      - Sorel Fitz-Gibbon
-      - Alfredo E. Gonzalez
-      - Nicole Zeltser
-      - Raag Agrawal
-      - Jieun Oh
-      - Jaron Arbet
-      - Yash Patel
-      - Takafumi N. Yamaguchi
-      - Paul C. Boutros
+- name: "StableLift: Optimized Germline and Somatic Variant Detection Across Genome Builds"
+  url: https://www.biorxiv.org/content/10.1101/2024.10.31.621401v1
+  featured: true
+  authors:
+    - Nicholas K. Wang
+    - Nicholas Wiltsie
+    - Helena K. Winata
+    - Sorel Fitz-Gibbon
+    - Alfredo E. Gonzalez
+    - Nicole Zeltser
+    - Raag Agrawal
+    - Jieun Oh
+    - Jaron Arbet
+    - Yash Patel
+    - Takafumi N. Yamaguchi
+    - Paul C. Boutros

@@ -1,36 +1,25 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <article>
-            <p>
-                <strong>Title:</strong> 
+    {% for item in site.data.publications %}
+      {% if page.title != "Home" or (page.title == "Home" and item.featured == true) %}
+      <article>
+          <p>
+              <strong>Title:</strong>
+              {% if item.url %}
                 <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
-            </p>
-            <p>
-                <strong>Authors:</strong>
-                {% for author in item.authors %}
-                    {{ author }}{% if forloop.last == false %}, {% endif %}
-                {% endfor %}
-            </p>
-        </article>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <article>
-            <p>
-                <strong>Title:</strong> 
-                <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
-            </p>
-            <p>
-                <strong>Authors:</strong>
-                {% for author in item.authors %}
-                    {{ author }}{% if forloop.last == false %}, {% endif %}
-                {% endfor %}
-            </p>
-        </article>
-      {% endfor %}
-    {% endif %}
+              {% else %}
+                {{ item.name }}
+              {% endif %}
+          </p>
+          <p>
+              <strong>Authors:</strong>
+              {% for author in item.authors %}
+                  {{ author }}{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+          </p>
+      </article>
+      {% endif %}
+    {% endfor %}
   </div>
 </div>
