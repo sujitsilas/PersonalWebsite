@@ -1,69 +1,209 @@
-- title: 'StableLift: Optimized Germline and Somatic Variant Detection Across Genome
-    Builds'
-  publication_year: '2024'
+- title: Single cell transcriptomics reveals recent CD8T cell receptor signaling in
+    patients with coronary artery disease.
+  publication_year: '2023'
   identifiers:
-    doi: 10.1101/2024.10.31.621401
+    pmid: '37828989'
+    pmc: PMC10565000
+    doi: 10.3389/fimmu.2023.1239148
   authors:
-  - Nicholas K. Wang
-  - Nicholas Wiltsie
-  - Helena K. Winata
-  - Sorel Fitz-Gibbon
-  - Alfredo E. Gonzalez
-  - Nicole Zeltser
-  - Raag Agrawal
-  - Jieun Oh
-  - Jaron Arbet
-  - Yash Patel
-  - Takafumi N. Yamaguchi
-  - Paul C. Boutros
-  url: https://doi.org/10.1101/2024.10.31.621401
-- title: 'Metapipeline-DNA: A Comprehensive Germline & Somatic Genomics Nextflow Pipeline'
-  publication_year: '2024'
+  - Iqneibi S
+  - Saigusa R
+  - Khan A
+  - Oliaeimotlagh M
+  - Armstrong Suthahar SS
+  - Kumar S
+  - Alimadadi A
+  - Durant CP
+  - Ghosheh Y
+  - McNamara CA
+  - Hedrick CC
+  - Ley K
+  url: https://doi.org/10.3389/fimmu.2023.1239148
+- title: Identification of human exT<sub>reg</sub> cells as CD16<sup>+</sup>CD56<sup>+</sup>
+    cytotoxic CD4<sup>+</sup> T cells.
+  publication_year: '2023'
   identifiers:
-    doi: 10.1101/2024.09.04.611267
+    pmid: '37563308'
+    doi: 10.1038/s41590-023-01589-9
   authors:
-  - Yash Patel
-  - Chenghao Zhu
-  - Takafumi N. Yamaguchi
-  - Nicholas K. Wang
-  - Nicholas Wiltsie
-  - Alfredo E. Gonzalez
-  - Helena K. Winata
-  - Nicole Zeltser
-  - Yu Pan
-  - Mohammed Faizal Eeman Mootor
-  - Timothy Sanders
-  - Cyriac Kandoth
-  - Sorel T. Fitz-Gibbon
-  - Julie Livingstone
-  - Lydia Y. Liu
-  - Benjamin Carlin
-  - Aaron Holmes
-  - Jieun Oh
-  - John Sahrmann
-  - Shu Tao
-  - Stefan Eng
-  - Rupert Hugh-White
-  - Kiarod Pashminehazar
-  - Andrew Park
-  - Arpi Beshlikyan
-  - Madison Jordan
-  - Selina Wu
-  - Mao Tian
-  - Jaron Arbet
-  - Beth Neilsen
-  - Yuan Zhe Bugh
-  - Gina Kim
-  - Joseph Salmingo
-  - Wenshu Zhang
-  - Roni Haas
-  - Aakarsh Anand
-  - Edward Hwang
-  - Anna Neiman-Golden
-  - Philippa Steinberg
-  - Wenyan Zhao
-  - Prateek Anand
-  - Brandon L. Tsai
-  - Paul C. Boutros
-  url: https://doi.org/10.1101/2024.09.04.611267
+  - Freuchet A
+  - Roy P
+  - Armstrong SS
+  - Oliaeimotlagh M
+  - Kumar S
+  - Orecchioni M
+  - Ali AJ
+  - Khan A
+  - Makings J
+  - Lyu Q
+  - Winkels H
+  - Wang E
+  - Durant C
+  - Ghosheh Y
+  - Ley K
+  url: https://doi.org/10.1038/s41590-023-01589-9
+- title: Single-cell transcriptomes and T cell receptors of vaccine-expanded apolipoprotein
+    B-specific T cells.
+  publication_year: '2023'
+  identifiers:
+    pmid: '36684560'
+    pmc: PMC9849899
+    doi: 10.3389/fcvm.2022.1076808
+  authors:
+  - Nettersheim FS
+  - Ghosheh Y
+  - Winkels H
+  - Kobiyama K
+  - Durant C
+  - Armstrong SS
+  - Brunel S
+  - Roy P
+  - Dileepan T
+  - Jenkins MK
+  - Zajonc DM
+  - Ley K
+  url: https://doi.org/10.3389/fcvm.2022.1076808
+- title: Titration of 124 antibodies using CITE-Seq on human PBMCs.
+  publication_year: '2022'
+  identifiers:
+    pmid: '36460735'
+    doi: 10.1038/s41598-022-24371-7
+  authors:
+  - Nettersheim FS
+  - Armstrong SS
+  - Durant C
+  - Blanco-Dominguez R
+  - Roy P
+  - Orecchioni M
+  - Suryawanshi V
+  - Ley K
+  url: https://doi.org/10.1038/s41598-022-24371-7
+- title: Combined protein and transcript single-cell RNA sequencing in human peripheral
+    blood mononuclear cells.
+  publication_year: '2022'
+  identifiers:
+    pmid: '36045343'
+    pmc: PMC9434837
+    doi: 10.1186/s12915-022-01382-4
+  authors:
+  - Vallejo J
+  - Saigusa R
+  - Gulati R
+  - Armstrong Suthahar SS
+  - Suryawanshi V
+  - Alimadadi A
+  - Durant CP
+  - Ghosheh Y
+  - Roy P
+  - Ehinger E
+  - Pattarabanjird T
+  - Ley K
+  url: https://doi.org/10.1186/s12915-022-01382-4
+- title: Sex Differences in Coronary Artery Disease and Diabetes Revealed by scRNA-Seq
+    and CITE-Seq of Human CD4+ T Cells.
+  publication_year: '2022'
+  identifiers:
+    pmid: '36077273'
+    pmc: PMC9456056
+    doi: 10.3390/ijms23179875
+  authors:
+  - Saigusa R
+  - Vallejo J
+  - Gulati R
+  - Suthahar SSA
+  - Suryawanshi V
+  - Alimadadi A
+  - Makings J
+  - Durant CP
+  - Freuchet A
+  - Roy P
+  - Ghosheh Y
+  - Pandori W
+  - Ley K
+  url: https://doi.org/10.3390/ijms23179875
+- title: Immunodominant MHC-II (Major Histocompatibility Complex II) Restricted Epitopes
+    in Human Apolipoprotein B.
+  publication_year: '2022'
+  identifiers:
+    pmid: '35766025'
+    doi: 10.1161/circresaha.122.321116
+  authors:
+  - Roy P
+  - Sidney J
+  - Lindestam Arlehamn CS
+  - Phillips E
+  - Mallal S
+  - Armstrong Suthahar SS
+  - Billitti M
+  - Rubiro P
+  - Marrama D
+  - Drago F
+  - Vallejo J
+  - Ley K
+  url: https://doi.org/10.1161/circresaha.122.321116
+- title: A humanized β<sub>2</sub> integrin knockin mouse reveals localized intra-
+    and extravascular neutrophil integrin activation in vivo.
+  publication_year: '2022'
+  identifiers:
+    pmid: '35649374'
+    doi: 10.1016/j.celrep.2022.110876
+  authors:
+  - Wen L
+  - Marki A
+  - Wang Z
+  - Orecchioni M
+  - Makings J
+  - Billitti M
+  - Wang E
+  - Suthahar SSA
+  - Kim K
+  - Kiosses WB
+  - Mikulski Z
+  - Ley K
+  url: https://doi.org/10.1016/j.celrep.2022.110876
+- title: Sex differences in coronary artery disease and diabetes revealed by scRNA-Seq
+    and CITE-Seq of human CD4+ T cells
+  publication_year: '2022'
+  identifiers:
+    ppr: PPR493482
+    doi: 10.1101/2022.05.16.491900
+  authors:
+  - Saigusa R
+  - Vallejo J
+  - Gulati R
+  - Suthahar SSA
+  - Suryawanshi V
+  - Alimadadi A
+  - Markings J
+  - Durant CP
+  - Freuchet A
+  - Roy P
+  - Ghosheh Y
+  - Pandori W
+  - Ley K
+  url: https://doi.org/10.1101/2022.05.16.491900
+- title: Single cell transcriptomics and TCR reconstruction reveal CD4 T cell response
+    to MHC-II-restricted APOB epitope in human cardiovascular disease.
+  publication_year: '2022'
+  identifiers:
+    pmid: '35990517'
+    pmc: PMC9383695
+    doi: 10.1038/s44161-022-00063-3
+  authors:
+  - Saigusa R
+  - Roy P
+  - Freuchet A
+  - Gulati R
+  - Ghosheh Y
+  - Suthahar SSA
+  - Durant CP
+  - Hanna DB
+  - Kiosses WB
+  - Orecchioni M
+  - Wen L
+  - Wu R
+  - Kuniholm MH
+  - Landay AL
+  - Ley K
+  url: https://doi.org/10.1038/s44161-022-00063-3
 
