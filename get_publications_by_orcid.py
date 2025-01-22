@@ -95,5 +95,4 @@ def fetch_contributors(work_path):
 # Retrieve and print publications
 publications = fetch_publications(orcid_id)
 
-output = {"index": publications}
-print(yaml.dump(output, sort_keys=False, default_flow_style=False, allow_unicode=True))
+print(yaml.dump(publications, sort_keys=False, default_flow_style=False, allow_unicode=True))
