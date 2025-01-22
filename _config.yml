@@ -1,0 +1,7 @@
+title: "Your Name's Resume"
+description: "A simple online resume"
+url: "https://<your-username>.github.io/resume"
+baseurl: "/resume" # Adjust if deploying in a subdirectory
+remote_theme: "LeNPaul/academic"
+plugins:
+  - jekyll-remote-theme
