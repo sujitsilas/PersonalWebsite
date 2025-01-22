@@ -1,18 +1,70 @@
----
-
-- name: "StableLift: Optimized Germline and Somatic Variant Detection Across Genome Builds"
-  url: https://www.biorxiv.org/content/10.1101/2024.10.31.621401v1
-  featured: true
+index:
+- title: 'StableLift: Optimized Germline and Somatic Variant Detection Across Genome
+    Builds'
+  publication_year: '2024'
+  identifiers:
+    doi: 10.1101/2024.10.31.621401
   authors:
-    - Nicholas K. Wang
-    - Nicholas Wiltsie
-    - Helena K. Winata
-    - Sorel Fitz-Gibbon
-    - Alfredo E. Gonzalez
-    - Nicole Zeltser
-    - Raag Agrawal
-    - Jieun Oh
-    - Jaron Arbet
-    - Yash Patel
-    - Takafumi N. Yamaguchi
-    - Paul C. Boutros
+  - Nicholas K. Wang
+  - Nicholas Wiltsie
+  - Helena K. Winata
+  - Sorel Fitz-Gibbon
+  - Alfredo E. Gonzalez
+  - Nicole Zeltser
+  - Raag Agrawal
+  - Jieun Oh
+  - Jaron Arbet
+  - Yash Patel
+  - Takafumi N. Yamaguchi
+  - Paul C. Boutros
+  url: https://doi.org/10.1101/2024.10.31.621401
+- title: 'Metapipeline-DNA: A Comprehensive Germline & Somatic Genomics Nextflow Pipeline'
+  publication_year: '2024'
+  identifiers:
+    doi: 10.1101/2024.09.04.611267
+  authors:
+  - Yash Patel
+  - Chenghao Zhu
+  - Takafumi N. Yamaguchi
+  - Nicholas K. Wang
+  - Nicholas Wiltsie
+  - Alfredo E. Gonzalez
+  - Helena K. Winata
+  - Nicole Zeltser
+  - Yu Pan
+  - Mohammed Faizal Eeman Mootor
+  - Timothy Sanders
+  - Cyriac Kandoth
+  - Sorel T. Fitz-Gibbon
+  - Julie Livingstone
+  - Lydia Y. Liu
+  - Benjamin Carlin
+  - Aaron Holmes
+  - Jieun Oh
+  - John Sahrmann
+  - Shu Tao
+  - Stefan Eng
+  - Rupert Hugh-White
+  - Kiarod Pashminehazar
+  - Andrew Park
+  - Arpi Beshlikyan
+  - Madison Jordan
+  - Selina Wu
+  - Mao Tian
+  - Jaron Arbet
+  - Beth Neilsen
+  - Yuan Zhe Bugh
+  - Gina Kim
+  - Joseph Salmingo
+  - Wenshu Zhang
+  - Roni Haas
+  - Aakarsh Anand
+  - Edward Hwang
+  - Anna Neiman-Golden
+  - Philippa Steinberg
+  - Wenyan Zhao
+  - Prateek Anand
+  - Brandon L. Tsai
+  - Paul C. Boutros
+  url: https://doi.org/10.1101/2024.09.04.611267
+
