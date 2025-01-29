@@ -1,4 +1,4 @@
-- title: Single cell transcriptomics reveals recent CD8T cell receptor signaling in
+- name: Single cell transcriptomics reveals recent CD8T cell receptor signaling in
     patients with coronary artery disease.
   publication_year: '2023'
   identifiers:
@@ -19,7 +19,7 @@
   - Hedrick CC
   - Ley K
   url: https://doi.org/10.3389/fimmu.2023.1239148
-- title: Identification of human exT<sub>reg</sub> cells as CD16<sup>+</sup>CD56<sup>+</sup>
+- name: Identification of human exT<sub>reg</sub> cells as CD16<sup>+</sup>CD56<sup>+</sup>
     cytotoxic CD4<sup>+</sup> T cells.
   publication_year: '2023'
   identifiers:
@@ -42,7 +42,7 @@
   - Ghosheh Y
   - Ley K
   url: https://doi.org/10.1038/s41590-023-01589-9
-- title: Single-cell transcriptomes and T cell receptors of vaccine-expanded apolipoprotein
+- name: Single-cell transcriptomes and T cell receptors of vaccine-expanded apolipoprotein
     B-specific T cells.
   publication_year: '2023'
   identifiers:
@@ -63,7 +63,7 @@
   - Zajonc DM
   - Ley K
   url: https://doi.org/10.3389/fcvm.2022.1076808
-- title: Titration of 124 antibodies using CITE-Seq on human PBMCs.
+- name: Titration of 124 antibodies using CITE-Seq on human PBMCs.
   publication_year: '2022'
   identifiers:
     pmid: '36460735'
@@ -78,7 +78,7 @@
   - Suryawanshi V
   - Ley K
   url: https://doi.org/10.1038/s41598-022-24371-7
-- title: Combined protein and transcript single-cell RNA sequencing in human peripheral
+- name: Combined protein and transcript single-cell RNA sequencing in human peripheral
     blood mononuclear cells.
   publication_year: '2022'
   identifiers:
@@ -99,7 +99,7 @@
   - Pattarabanjird T
   - Ley K
   url: https://doi.org/10.1186/s12915-022-01382-4
-- title: Sex Differences in Coronary Artery Disease and Diabetes Revealed by scRNA-Seq
+- name: Sex Differences in Coronary Artery Disease and Diabetes Revealed by scRNA-Seq
     and CITE-Seq of Human CD4+ T Cells.
   publication_year: '2022'
   identifiers:
@@ -121,7 +121,7 @@
   - Pandori W
   - Ley K
   url: https://doi.org/10.3390/ijms23179875
-- title: Immunodominant MHC-II (Major Histocompatibility Complex II) Restricted Epitopes
+- name: Immunodominant MHC-II (Major Histocompatibility Complex II) Restricted Epitopes
     in Human Apolipoprotein B.
   publication_year: '2022'
   identifiers:
@@ -141,7 +141,7 @@
   - Vallejo J
   - Ley K
   url: https://doi.org/10.1161/circresaha.122.321116
-- title: A humanized β<sub>2</sub> integrin knockin mouse reveals localized intra-
+- name: A humanized β<sub>2</sub> integrin knockin mouse reveals localized intra-
     and extravascular neutrophil integrin activation in vivo.
   publication_year: '2022'
   identifiers:
@@ -161,7 +161,7 @@
   - Mikulski Z
   - Ley K
   url: https://doi.org/10.1016/j.celrep.2022.110876
-- title: Sex differences in coronary artery disease and diabetes revealed by scRNA-Seq
+- name: Sex differences in coronary artery disease and diabetes revealed by scRNA-Seq
     and CITE-Seq of human CD4+ T cells
   publication_year: '2022'
   identifiers:
@@ -182,7 +182,7 @@
   - Pandori W
   - Ley K
   url: https://doi.org/10.1101/2022.05.16.491900
-- title: Single cell transcriptomics and TCR reconstruction reveal CD4 T cell response
+- name: Single cell transcriptomics and TCR reconstruction reveal CD4 T cell response
     to MHC-II-restricted APOB epitope in human cardiovascular disease.
   publication_year: '2022'
   identifiers:
